@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    
+    <item android:drawable="@drawable/chaquetas" android:duration="50" />
+    <item android:drawable="@drawable/chaquetamujer" android:duration="50" />
+    <item android:drawable="@drawable/nino" android:duration="50" />
+    <item android:drawable="@drawable/estampado" android:duration="50" />
+    <item android:drawable="@drawable/chaquetas" android:duration="50" />
+    <item android:drawable="@drawable/chaquetamujer" android:duration="50" />
+    <item android:drawable="@drawable/nino" android:duration="50" />
+    <item android:drawable="@drawable/estampado" android:duration="50" />
+</animation-list>
